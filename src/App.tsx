@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <Header />
       <HeadLine
-        title="I am a title"
+        title="Acesse aqui"
         to="https://material-ui.com/pt/components/grid/"
       />
     </div>
